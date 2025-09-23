@@ -11,38 +11,28 @@
  */
 public class Solution {
     public ListNode RemoveNthFromEnd(ListNode head, int n) {
+         // Step 1: Count the total nodes
         int size = 0;
-        ListNode Current = head;
-        while(Current!= null)
-        {
+        ListNode current = head;
+        while (current != null) {
             size++;
-            Current = Current.next;
+            current = current.next;
         }
-        if(size == 1 && n == 1)
-        {
-            head = head.next;
-            return head;
-        }
+
+        // Step 2: If we need to remove the head
         int deletingIndex = size - n;
-        if(deletingIndex == 0)
-        {
-            return head.next;
+        if (deletingIndex == 0) return head.next;
+
+        // Step 3: Traverse to the node just before the one to delete
+        current = head;
+        for (int i = 1; i < deletingIndex; i++) {
+            current = current.next;
         }
-        size = 1;
-        Current = head;
-        while(size < deletingIndex)
-        {
-            size++;
-            Current = Current.next;
-        }
-        Console.WriteLine(Current.val);
-        if(Current.next.next != null)
-        {
-            Current.next = Current.next.next;
-        }
-        else {
-            Current.next = null;
-        }
+
+        // Step 4: Remove the nth node
+        current.next = current.next.next;
+
         return head;
+
     }
 }
