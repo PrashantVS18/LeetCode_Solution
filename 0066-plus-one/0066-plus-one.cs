@@ -1,34 +1,31 @@
 
 public class Solution {
     public int[] PlusOne(int[] digits) {
-        int Carry = 0;
+        int carry = 0;
         int a = 1;
-        Stack<int> myStack = new Stack<int>();
-        int count = 0;
-        for(int i = 0; i < digits.Length; i++)
+        for(int i = digits.Length - 1; i>= 0; i--)
         {
-            if(digits[i] == 9)
+            int n = digits[i] + carry + a;
+            if(n != 10)
             {
-                count++;
+                digits[i] = n;
+                return digits;
             }
-            myStack.Push(digits[i]);
-        }
-
-                int[] num = new int[count == digits.Length? digits.Length + 1 : digits.Length];
-
-        for(int i = num.Length - 1; i>=0; i--)
-        {
-             int n = 0;
-            if(myStack.Count != 0)
+            else
             {
-                n = myStack.Pop();
+                carry = 1;
+                digits[i] = 0;
             }
-            n += Carry + a;
-            num[i] = n % 10;
-            Carry = n / 10;
             a = 0;
         }
-        
-        return num;
+        int[] arr = new int[digits.Length + 1];
+        arr[0] = 1;
+        for(int i = 1; i < arr.Length; i++)
+        {
+            arr[i] = digits[i-1];
+        }
+        return arr;
+
+
     }
 }
