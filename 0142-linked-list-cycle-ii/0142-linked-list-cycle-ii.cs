@@ -20,22 +20,16 @@ public class Solution {
             fast = fast.next.next;
             if(slow == fast)
             {
-                isPresent = true;
+                
                 slow = head;
-                Console.WriteLine("exist");
-                break;
+                while(slow != fast)
+                {
+                    slow = slow.next;
+                    fast = fast.next;
+                }
+                return slow;
             }
         }
-        if(isPresent)
-        {
-            while(slow != fast)
-            {
-                slow = slow.next;
-                fast = fast.next;
-            }
-            return slow;
-        }
-        Console.WriteLine("not exist");
         return null;
     }
 }
