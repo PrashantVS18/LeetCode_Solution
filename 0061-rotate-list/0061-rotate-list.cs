@@ -11,18 +11,17 @@
  */
 public class Solution {
     public ListNode RotateRight(ListNode head, int k) {
+
+        if(head == null || head.next == null || k == 0)
+        {
+            return head;
+        }
         int size = 0;
-        ListNode Current = head;
-        
+        ListNode Current = head;      
         while(Current != null)
         {
             size++;
             Current = Current.next;
-        }
-
-        if(k == 0 || size <= 1 || head == null)
-        {
-            return head;
         }
         int newK = k % size;
 
