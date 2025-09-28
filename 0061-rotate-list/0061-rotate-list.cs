@@ -44,7 +44,6 @@ public class Solution {
         while(newCurrent.next != null)
         {
             newCurrent = newCurrent.next;
-
         }
         Console.WriteLine(newCurrent.val);
         newCurrent.next = head;
