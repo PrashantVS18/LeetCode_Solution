@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0142-linked-list-cycle-ii) |
 ## Array
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0175-combine-two-tables) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
