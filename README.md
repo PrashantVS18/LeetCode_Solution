@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0067-add-binary) |
+| [2238-a-number-after-a-double-reversal](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/2238-a-number-after-a-double-reversal) |
 ## Recursion
 |  |
 | ------- |
