@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
