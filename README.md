@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
