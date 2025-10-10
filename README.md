@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Array
@@ -82,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -100,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
