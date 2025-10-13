@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
