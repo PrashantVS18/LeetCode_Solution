@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0342-power-of-four) |
 | [2238-a-number-after-a-double-reversal](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/2238-a-number-after-a-double-reversal) |
 ## Recursion
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
