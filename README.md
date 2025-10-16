@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
