@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0342-power-of-four) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0069-sqrtx) |
 ## Database
 |  |
 | ------- |
