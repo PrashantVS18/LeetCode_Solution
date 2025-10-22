@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0069-sqrtx) |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0067-add-binary) |
 ## Bit Manipulation
