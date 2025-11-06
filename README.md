@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0596-classes-with-at-least-5-students) |
 | [1179-game-play-analysis-i](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/1182-game-play-analysis-iv) |
 ## Sorting
