@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0148-sort-list) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/PrashantVS18/LeetCode_Solution/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
